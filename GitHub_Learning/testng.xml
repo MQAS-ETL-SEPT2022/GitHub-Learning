@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="toolsqa.TC_07_Anil_links"/>
+      <class name="toolsqa.TC_06_Preeti_Buttons"/>
+      <class name="toolsqa.TC_02_Tejaswini_CheckBox"/>
+      <class name="toolsqa.TC_05_Achyut_Webtable"/>
+      <class name="toolsqa.TC_03_Vani_Radiobutton"/>
+      <class name="toolsqa.TC_06_Preeti_Button"/>
+      <class name="toolsqa.TC_01_Priya_UpdAndDownload"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
