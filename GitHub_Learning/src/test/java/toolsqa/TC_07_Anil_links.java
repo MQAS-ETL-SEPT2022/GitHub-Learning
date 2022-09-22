@@ -10,8 +10,7 @@ import baseclass.Basetest;
 	public class TC_07_Anil_links extends Basetest {
 
 		@Test
-		public void testcase1() throws InterruptedException
-		{
+		public void testcase1() throws InterruptedException {
 			//opening demoQA page
 			driver.get("https://demoqa.com/");
 			
