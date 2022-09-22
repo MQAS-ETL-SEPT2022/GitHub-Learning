@@ -8,6 +8,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
+import baseclass.Basetest;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class TC_06_Preeti_Button extends Basetest{

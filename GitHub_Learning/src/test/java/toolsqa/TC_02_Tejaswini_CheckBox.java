@@ -7,6 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
+import baseclass.Basetest;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class TC_02_Tejaswini_CheckBox extends Basetest {

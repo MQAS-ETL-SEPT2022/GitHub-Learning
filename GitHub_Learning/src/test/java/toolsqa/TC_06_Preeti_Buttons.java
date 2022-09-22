@@ -8,7 +8,8 @@ package toolsqa;
 	import org.testng.Reporter;
 	import org.testng.annotations.Test;
 
-	import io.github.bonigarcia.wdm.WebDriverManager;
+import baseclass.Basetest;
+import io.github.bonigarcia.wdm.WebDriverManager;
 	public class TC_06_Preeti_Buttons extends Basetest{
 	
 		@Test
